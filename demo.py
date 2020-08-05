@@ -1,5 +1,5 @@
 def isum_result(x, y):
-    print(x + y) 
+    return x + y
 
-isum_result(5,10)
+print(isum_result(5,10))git
 
